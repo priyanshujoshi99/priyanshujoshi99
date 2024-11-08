@@ -5,7 +5,7 @@ Software Engineer skilled in Micro-Frontends and Micro-Services using React and 
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [MyPortfolio](http://priyanshujoshi.netlify.app/)
-* ✉️  You can contact me at [priyanshuworkbackup@gmail.com](mailto:priyanshuworkbackup@gmail.com)
+* ✉️  You can contact me at [priyanshu.joshi.in@gmail.com](mailto:priyanshu.joshi.in@gmail.com)
 
 ### Skills
 
