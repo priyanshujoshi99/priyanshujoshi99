@@ -6,16 +6,9 @@
 
 *I design and ship production-grade microservices and microfrontend platforms - from LLM-powered tools and AI chatbots to high-throughput order management systems.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](http://priyanshujoshi.netlify.app/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thepriyanshujoshi)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://www.x.com/_priyanshujoshi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:priyanshu.joshi.in@gmail.com)
-
-📍 Bengaluru, India &nbsp;
-
 </div>
 
-## 🛠 Skills
+### 🛠 Skills
 
 **Core**
 
