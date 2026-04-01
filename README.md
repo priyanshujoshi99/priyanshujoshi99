@@ -18,14 +18,15 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache_Camel-E0391D?style=flat&logo=apache&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat&logo=adminer&logoColor=white)
+![Microfrontends](https://img.shields.io/badge/Microfrontends-20232A?style=flat&logo=googlechrome&logoColor=white)
 
 **AI & Data**
 
-![LLM Applications](https://img.shields.io/badge/LLM_Apps-412991?style=flat&logo=openai&logoColor=white)
-![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-412991?style=flat)
-![MCP](https://img.shields.io/badge/MCP-412991?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat)
+![LLM Applications](https://img.shields.io/badge/LLM_Apps-412991?style=flat&logo=pytorch&logoColor=white)
+![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-412991?style=flat&logo=probot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-412991?style=flat&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat&logo=gnubash&logoColor=white)
 
 **Cloud & Infra**
 
